@@ -1,0 +1,48 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+
+#contact {
+	font-size: 16px;
+	margin-top: 0px;
+	margin-bottom: 40px;
+}
+
+#education h3 {
+	border-bottom: 1px solid #999;
+}
+
+.city {
+	float: right;
+	font-size: 14px;
+}
+
+.date {
+	float: right;
+	font-size: 14px;
+}
+
+#professional-experience h3 {
+	border-bottom: 1px solid #999;
+	margin-top: 40px;
+}
+
+#personal-statement {
+	font-style: italic;
+	font-size: 18px;
+}
+
+#name {
+	padding-top: 5px;
+	font-size: 28px;
+}
+
+#container {
+	width: 700px;
+	margin: 40px auto 60px;
+}
+
+#pic {
+	float: right;
+}
