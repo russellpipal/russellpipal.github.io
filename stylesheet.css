@@ -1,5 +1,6 @@
 body {
 	font-family: 'Roboto', sans-serif;
+	background: radial-gradient(#FFFFFF, #E0E0E0);
 }
 
 
@@ -33,9 +34,11 @@ body {
 	font-size: 18px;
 }
 
-#name {
+h1 {
 	padding-top: 5px;
-	font-size: 28px;
+	font-size: 64px;
+	text-shadow: 1px 1px 3px #000;
+	color: white;
 }
 
 #container {
@@ -43,6 +46,7 @@ body {
 	margin: 40px auto 60px;
 }
 
-#pic {
+#photo {
 	float: right;
+	box-shadow: 3px 3px 3px #000;
 }
